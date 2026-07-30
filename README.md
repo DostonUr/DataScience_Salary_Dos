@@ -6,7 +6,7 @@ a Random Forest Regressor.
 
 Full write-up with commentary on the modeling decisions and their limits:
 **[Read the article](https://urinovd.github.io/2026/08/15/data-scientist-salary-prediction.html)**
-
+**[Read the article](https://doi.org/10.5281/zenodo.21706033)**
 ## What's here
 
 - `salary_analysis.py` — end-to-end cleaning and modeling script
